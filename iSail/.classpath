@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Devic/Documents/EclipseProjects/bukkit-1.5.2-R1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Devic/Documents/EclipseProjects/bukkit-1.6.4-R0.1-20131010.233807-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Devic/Documents/EclipseProjects/bukkit-1.6.2-R1.1-20130911.072029-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Devic/Documents/EclipseProjects/Cannons.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

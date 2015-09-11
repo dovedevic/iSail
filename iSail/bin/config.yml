@@ -1,0 +1,6 @@
+# Defauld Configuration File for iSail config! -ji
+PlayerCanAssistBlocks: 500
+Phase: 10
+MaxSizeOfShip: 2555
+MinimalEcipage: 1
+LocalBroadcastMessageRadiusInBlocks: 333

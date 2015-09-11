@@ -1,0 +1,7 @@
+name: iSail
+main: iSail.iSail
+version: 1.0
+author: JI_and_DoveDevic
+commands:
+   isail:
+      description: Main command of iSail plugin.
